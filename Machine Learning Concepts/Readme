@@ -1,6 +1,5 @@
 # Machine Learning Car Price Prediction
-
-## Overview
+##Overview
 This project predicts car prices using machine learning models. The dataset contains various features of cars, and the goal is to build models that accurately predict car prices based on these features.
 
 ## Files
