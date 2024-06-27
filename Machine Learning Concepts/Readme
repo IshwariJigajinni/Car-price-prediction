@@ -1,0 +1,33 @@
+# Machine Learning Car Price Prediction
+
+## Overview
+This project predicts car prices using machine learning models. The dataset contains various features of cars, and the goal is to build models that accurately predict car prices based on these features.
+
+## Files
+- **MLC Assessment FINAL CODE.ipynb**: This Jupyter notebook contains the entire code for data processing, model building, and evaluation.
+- **MLC_report.pdf**: This document provides a detailed report on the project, including data understanding, preprocessing, model evaluation, and results.
+
+## Project Structure
+1. **Data Understanding and Exploration**: 
+   - Analysis of features and their distributions.
+   - Identification and handling of missing values and outliers.
+
+2. **Data Processing**:
+   - Encoding categorical features.
+   - Scaling numerical features.
+   - Splitting data into training and testing sets.
+
+3. **Model Building**:
+   - Implementing Linear Regression, K-Nearest Neighbors (KNN) Regression, and Decision Tree Regression models.
+   - Training and evaluating models.
+
+4. **Model Evaluation**:
+   - Using metrics like RMSE (Root Mean Squared Error) and R-squared score to evaluate model performance.
+   - Performing cross-validation to ensure model robustness.
+
+## Results
+- **Decision Tree Regression**: Best model with an R-squared score of 93.29% and RMSE of 0.2592.
+- **KNN Regression**: Second best with an R-squared score of 87.10% and RMSE of 0.3600.
+- **Linear Regression**: Least efficient with an R-squared score of 42% and RMSE of 0.7597.
+
+
